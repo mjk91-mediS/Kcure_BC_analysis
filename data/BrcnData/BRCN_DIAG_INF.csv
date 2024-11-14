@@ -1,0 +1,605 @@
+PT_SBST_NO,DIAG_RGST_YMD,HOSP_CD,BRCN_DIAG_KNCD,BRCN_DIAG_KNNM,DIAG_CD,DIAG_NM
+BR10501,2012-10-15,00040,9,기타질환,DIG5638,"Irritant contact dermatitis, unspecified cause"
+BR10501,2013-07-19,00040,9,기타질환,DIG2924,Dyshidrosis[pompholyx]
+BR38109,2016-02-22,00040,9,기타질환,DIG1444,Pregnancy confirmed
+BR38109,2018-05-31,00040,9,기타질환,DIG5656,Pain in limb upper arm
+BR52177,2015-04-21,00040,9,기타질환,DIG9597,Obstructive jaundice
+BR52177,2015-05-04,00040,9,기타질환,DIG1919,Obstruction of doudenum
+BR25382,2022-02-09,00040,9,기타질환,DIG9229,GB polyp
+BR95762,2012-08-27,00040,9,기타질환,DIG8528,Peripheral Polyneuropathy
+BR21737,2013-12-27,00040,9,기타질환,DIG4371,Dysarthria
+BR16171,2021-10-05,00040,9,기타질환,DIG9923,Persons encountering health services for medical advice NOS
+BR79885,2013-04-16,00040,9,기타질환,DIG3993,Acute Pyelonephritis
+BR53593,2013-10-28,00040,9,기타질환,DIG3027,Herniated Disc Disease Of Cervical Spine
+BR53593,2013-11-28,00040,9,기타질환,DIG2606,Cervical disc disorder with radiculopathy
+BR49528,2020-11-11,00040,9,기타질환,DIG2429,Postoperative Hypothyroidism
+BR18521,2010-04-14,00040,1,유방암(C50),DIG5474,Breast Cancer
+BR84756,2020-06-30,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR84756,2020-07-03,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR30370,2016-10-18,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR18521,2010-07-08,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR18521,2013-07-26,00040,9,기타질환,DIG9996,Nabothian Cyst
+BR21221,2018-11-17,00040,9,기타질환,DIG3800,Dyspepsia
+BR21221,2018-12-07,00040,9,기타질환,DIG5513,Other gastritis
+BR18462,2019-09-05,00040,9,기타질환,DIG6655,Abnormal findings on diagnostic imaging of liver and biliary tract
+BR18462,2019-10-23,00040,9,기타질환,DIG5682,"Scar, Neck"
+BR41591,2018-02-03,00040,9,기타질환,DIG6850,Chemotherapy-induced Cardiomyopathy
+BR37252,2015-02-05,00040,9,기타질환,DIG2474,Ovarian Corpus Luteal Cyst
+BR66049,2017-07-19,00040,9,기타질환,DIG3887,Nipple discharge
+BR27669,2010-11-22,00040,1,유방암(C50),DIG2760,Invasive Breast Cancer
+BR51150,2012-03-09,00040,9,기타질환,DIG6850,Chemotherapy-induced Cardiomyopathy
+BR51150,2019-02-09,00040,9,기타질환,DIG3035,"Influenza with pneumonia, seasonal influenza virus identified"
+BR13866,2019-06-21,00040,9,기타질환,DIG9756,Gastric Polyp
+BR55208,2018-12-20,00040,9,기타질환,DIG6123,Adhesion
+BR33954,2014-01-29,00040,9,기타질환,DIG4488,CBC abnormality
+BR92406,2014-02-11,00040,9,기타질환,DIG4194,Seborrheic keratosis
+BR65546,2019-11-04,00040,9,기타질환,DIG5438,Accessory breast
+BR36169,2016-01-10,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR61061,2016-04-23,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR18521,2019-04-18,00040,9,기타질환,DIG9922,Genetic counselling
+BR41591,2018-01-31,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR37252,2015-01-20,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR37252,2015-02-04,00040,9,기타질환,DIG5158,Paratubal cyst
+BR83566,2013-01-27,00040,9,기타질환,DIG6787,Secondary Lymphedema
+BR83566,2016-07-10,00040,9,기타질환,DIG1736,Tinea pedis
+BR96883,2023-01-27,00040,9,기타질환,DIG7714,Occult blood in stools
+BR21221,2023-03-20,00040,9,기타질환,DIG2595,Abnormal renal function test
+BR38228,2010-05-23,00040,1,유방암(C50),DIG2760,Invasive Breast Cancer
+BR64748,2020-03-27,00040,9,기타질환,DIG9507,"Degenerative Arthritis, knee"
+BR64934,2021-11-04,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR60122,2018-12-26,00040,9,기타질환,DIG5158,Paratubal cyst
+BR25565,2017-04-22,00040,9,기타질환,DIG6237,Atrial Premature Contraction
+BR59408,2013-10-16,00040,9,기타질환,DIG3172,"Thrombophlebitis, NOS"
+BR27669,2012-12-20,00040,9,기타질환,DIG4443,Central serous chorioretinopathy
+BR61221,2018-01-31,00040,9,기타질환,DIG9525,Influenza NOS
+BR74521,2016-11-01,00040,9,기타질환,DIG4257,Digestive Symptom And Sign
+BR80076,2016-10-15,00040,9,기타질환,DIG9603,Other Type Of Fatty Liver
+BR57839,2016-09-11,00040,9,기타질환,DIG8734,Cellulitis of arm
+BR43137,2021-02-26,00040,9,기타질환,DIG9506,Dyslipidemia
+BR98207,2017-06-28,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR83070,2018-10-24,00040,9,기타질환,DIG5795,Laryngopharyngeal reflux
+BR83070,2022-10-31,00040,9,기타질환,DIG2859,"Heart failure, unspecified"
+BR36169,2016-01-25,00040,9,기타질환,DIG1998,Palpitations
+BR61061,2016-07-07,00040,9,기타질환,DIG1005,Major Depressive Disorder
+BR61061,2016-11-03,00040,9,기타질환,DIG7331,Tendinitis Of Rotator Cuff
+BR38109,2018-05-21,00040,9,기타질환,DIG3148,Trigger finger hand
+BR41507,2013-12-28,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR40647,2017-08-14,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR55034,2019-04-01,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR21737,2011-02-17,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR49615,2020-07-12,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR27669,2013-09-10,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR10501,2013-08-30,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR21221,2021-10-21,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR53593,2019-03-21,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR60505,2014-10-04,00040,9,기타질환,DIG7458,Eyelid Disease
+BR84756,2020-03-28,00040,9,기타질환,DIG3022,HPV infection
+BR37209,2020-05-04,00040,9,기타질환,DIG1555,"Abdominal Pain, unspecified"
+BR18521,2019-02-14,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR12346,2019-10-11,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR49864,2019-03-01,00040,9,기타질환,DIG9465,Health check-up NOS
+BR83070,2018-10-31,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR74390,2019-09-27,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR37209,2019-05-02,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR25565,2017-04-20,00040,9,기타질환,DIG4663,Ventricular Premature Contraction
+BR49528,2015-08-22,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR18521,2017-06-11,00040,9,기타질환,DIG9465,Health check-up NOS
+BR21221,2021-09-03,00040,9,기타질환,DIG9465,Health check-up NOS
+BR43542,2014-11-24,00040,9,기타질환,DIG9465,Health check-up NOS
+BR38710,2014-05-01,00040,9,기타질환,DIG9465,Health check-up NOS
+BR18462,2019-08-07,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR53100,2014-03-20,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR49528,2013-12-12,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR61061,2016-04-03,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR37252,2015-01-18,00040,9,기타질환,DIG1555,"Abdominal Pain, unspecified"
+BR83716,2015-09-07,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR25565,2016-09-20,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR18462,2019-04-23,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR48591,2022-05-06,00040,9,기타질환,DIG9465,Health check-up NOS
+BR25565,2020-09-29,00040,9,기타질환,DIG9465,Health check-up NOS
+BR18462,2019-09-01,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR43542,2021-11-13,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR48510,2018-03-07,00040,9,기타질환,DIG8734,Cellulitis of arm
+BR55034,2019-05-24,00040,9,기타질환,DIG6419,Essential tremor
+BR38710,2019-02-01,00040,9,기타질환,DIG9307,Impaired glucose tolerance
+BR60122,2019-01-03,00040,9,기타질환,DIG5370,Other endometriosis
+BR53059,2018-08-26,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR16171,2017-07-14,00040,9,기타질환,DIG9465,Health check-up NOS
+BR51639,2018-12-27,00040,9,기타질환,DIG4726,"Haemorrhoids, unspecified"
+BR51639,2020-05-17,00040,9,기타질환,DIG7407,Other specified respiratory disorders
+BR41507,2018-11-17,00040,9,기타질환,DIG9756,Gastric Polyp
+BR41507,2019-01-21,00040,9,기타질환,DIG5393,Adjustment disorders
+BR41507,2019-08-15,00040,9,기타질환,DIG8214,Contusion of back wall of thorax
+BR41540,2020-09-10,00040,9,기타질환,DIG7739,Drug eruption
+BR61221,2013-08-09,00040,9,기타질환,DIG1385,"Chronic periodontitis, unspecified"
+BR84756,2016-11-22,00040,9,기타질환,DIG9428,Abnormal findings on diagnostic imaging of breast
+BR43137,2021-02-18,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR38710,2016-07-27,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR49254,2016-07-06,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR48591,2020-08-02,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR25565,2020-10-27,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR46305,2019-10-29,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR44149,2023-02-01,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR54868,2017-11-11,00040,9,기타질환,DIG6794,Secondary amenorrhoea
+BR41507,2018-11-19,00040,9,기타질환,DIG7654,"Irregular menstruation, unspecified"
+BR44149,2012-10-03,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR25382,2012-06-11,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR16276,2012-07-28,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR22916,2016-02-25,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR25565,2017-10-07,00040,9,기타질환,DIG9762,Dyslipidemia
+BR98207,2017-07-01,00040,9,기타질환,DIG9762,Dyslipidemia
+BR55208,2014-08-12,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR46305,2019-07-05,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR25565,2017-11-04,00040,9,기타질환,DIG7654,"Irregular menstruation, unspecified"
+BR41540,2016-09-17,00040,9,기타질환,DIG4375,Endometrial Polyp
+BR43137,2019-10-31,00040,9,기타질환,DIG4375,Endometrial Polyp
+BR41507,2021-12-01,00040,9,기타질환,DIG1280,Corona[COVID-19] screening examination
+BR41507,2022-02-24,00040,9,기타질환,DIG1280,Corona[COVID-19] screening examination
+BR41507,2022-02-27,00040,9,기타질환,DIG1280,Corona[COVID-19] screening examination
+BR41507,2022-03-20,00040,9,기타질환,DIG1280,Corona[COVID-19] screening examination
+BR92406,2013-12-07,00040,9,기타질환,DIG6794,Secondary amenorrhoea
+BR51639,2015-09-04,00040,9,기타질환,DIG6794,Secondary amenorrhoea
+BR38710,2020-02-28,00040,9,기타질환,DIG6794,Secondary amenorrhoea
+BR63834,2020-01-02,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR49254,2017-02-19,00040,9,기타질환,DIG7654,"Irregular menstruation, unspecified"
+BR63834,2019-12-12,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR64934,2019-10-20,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR60145,2013-08-14,00040,9,기타질환,DIG7654,"Irregular menstruation, unspecified"
+BR38710,2015-09-26,00040,9,기타질환,DIG9762,Dyslipidemia
+BR53059,2018-12-15,00040,9,기타질환,DIG6794,Secondary amenorrhoea
+BR21221,2018-11-16,00040,9,기타질환,DIG5393,Adjustment disorders
+BR41591,2019-07-25,00040,9,기타질환,DIG9762,Dyslipidemia
+BR44149,2021-02-21,00040,9,기타질환,DIG9506,Dyslipidemia
+BR53059,2018-08-11,00040,9,기타질환,DIG9762,Dyslipidemia
+BR53059,2019-12-16,00040,9,기타질환,DIG9506,Dyslipidemia
+BR86535,2019-03-22,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR36169,2016-01-12,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR38694,2014-11-07,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR61061,2016-04-19,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR63834,2020-01-25,00040,9,기타질환,DIG5393,Adjustment disorders
+BR44149,2012-01-12,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR86535,2019-06-05,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR10501,2013-12-11,00040,9,기타질환,DIG6794,Secondary amenorrhoea
+BR83929,2015-05-24,00040,9,기타질환,DIG7654,"Irregular menstruation, unspecified"
+BR21221,2018-01-26,00040,9,기타질환,DIG7654,"Irregular menstruation, unspecified"
+BR41591,2018-07-25,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR27669,2010-11-12,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR60145,2012-06-08,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR53100,2012-04-17,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR43542,2014-12-16,00040,9,기타질환,DIG2551,Chest PA Abnormality
+BR60505,2013-11-24,00040,9,기타질환,DIG4426,Other Type Of Ovarian Cyst
+BR62319,2018-01-02,00040,9,기타질환,DIG2251,Pap Smear Abnormality
+BR21221,2021-05-13,00040,9,기타질환,DIG6733,Dry eye syndrome
+BR53100,2012-07-14,00040,9,기타질환,DIG1379,Axillary web syndrome(AWS)
+BR53100,2013-06-02,00040,9,기타질환,DIG2128,Headache
+BR41507,2011-11-22,00040,9,기타질환,DIG5215,Diagnostic Work Up
+BR41507,2019-01-01,00040,9,기타질환,DIG3702,Shoulder Impingement Syndrome
+BR38228,2011-09-20,00040,9,기타질환,DIG3702,Shoulder Impingement Syndrome
+BR86086,2019-11-14,00040,9,기타질환,DIG1545,LFT Abnormality
+BR95762,2020-05-20,00040,9,기타질환,DIG5264,Solitary pulmonary nodule
+BR83070,2022-05-05,00040,9,기타질환,DIG2128,Headache
+BR38694,2015-10-22,00040,9,기타질환,DIG9490,Nontoxic single thyroid nodule
+BR49864,2019-09-21,00040,9,기타질환,DIG5344,Adhesive capsulitis of shoulder
+BR64314,2015-07-02,00040,9,기타질환,DIG7036,Type 2 DM
+BR83070,2019-05-16,00040,9,기타질환,DIG3702,Shoulder Impingement Syndrome
+BR46305,2019-05-30,00040,9,기타질환,DIG4924,"Myofascial pain syndrome, shoulder region"
+BR44149,2014-07-18,00040,9,기타질환,DIG4375,Endometrial Polyp
+BR49864,2018-10-06,00040,9,기타질환,DIG4924,"Myofascial pain syndrome, shoulder region"
+BR98207,2020-11-16,00040,9,기타질환,DIG2551,Chest PA Abnormality
+BR55208,2018-12-18,00040,9,기타질환,DIG6056,"Disease of jaws, unspecified"
+BR86535,2019-10-06,00040,9,기타질환,DIG3702,Shoulder Impingement Syndrome
+BR10501,2019-02-05,00040,9,기타질환,DIG5264,Solitary pulmonary nodule
+BR66099,2019-03-17,00040,9,기타질환,DIG5344,Adhesive capsulitis of shoulder
+BR53100,2014-12-29,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR51639,2019-08-09,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR41540,2016-09-06,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR18462,2019-07-06,00040,9,기타질환,DIG4924,"Myofascial pain syndrome, shoulder region"
+BR43137,2020-02-21,00040,9,기타질환,DIG4924,"Myofascial pain syndrome, shoulder region"
+BR53100,2023-01-29,00040,9,기타질환,DIG1545,LFT Abnormality
+BR60505,2014-02-28,00040,9,기타질환,DIG3911,Cervicitis
+BR43542,2014-01-19,00040,9,기타질환,DIG1545,LFT Abnormality
+BR51639,2018-12-14,00040,9,기타질환,DIG6056,"Disease of jaws, unspecified"
+BR43137,2021-03-03,00040,9,기타질환,DIG1545,LFT Abnormality
+BR80076,2016-04-28,00040,9,기타질환,DIG1545,LFT Abnormality
+BR60122,2014-01-27,00040,9,기타질환,DIG3911,Cervicitis
+BR55208,2018-12-14,00040,9,기타질환,DIG2235,Pelvic Mass
+BR44149,2014-01-26,00040,9,기타질환,DIG3911,Cervicitis
+BR48591,2021-06-03,00040,9,기타질환,DIG5344,Adhesive capsulitis of shoulder
+BR51150,2013-04-09,00040,9,기타질환,DIG2251,Pap Smear Abnormality
+BR44149,2014-08-15,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR44149,2017-11-20,00040,9,기타질환,DIG7739,Drug eruption
+BR86535,2019-01-17,00040,9,기타질환,DIG7739,Drug eruption
+BR67187,2019-06-05,00040,9,기타질환,DIG1964,Pain in throat
+BR67187,2019-06-02,00040,9,기타질환,DIG1294,"Tremor, unspecified"
+BR40647,2018-02-02,00040,9,기타질환,DIG7990,Other retinal disorders in diseases classified elsewhere
+BR51639,2019-08-06,00040,9,기타질환,DIG4308,Adenomyosis Of Uterus
+BR43137,2021-01-12,00040,9,기타질환,DIG9465,Health check-up NOS
+BR46305,2019-07-27,00040,9,기타질환,DIG2251,Pap Smear Abnormality
+BR96883,2023-01-26,00040,9,기타질환,DIG5841,Polyp of colon
+BR83070,2020-11-09,00040,9,기타질환,DIG9465,Health check-up NOS
+BR41507,2014-02-22,00040,9,기타질환,DIG9465,Health check-up NOS
+BR86086,2019-01-12,00040,9,기타질환,DIG9465,Health check-up NOS
+BR21682,2013-10-29,00040,9,기타질환,DIG9465,Health check-up NOS
+BR48510,2015-07-02,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR61221,2015-03-04,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR61221,2021-11-24,00040,9,기타질환,DIG9465,Health check-up NOS
+BR38710,2017-08-29,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR41507,2019-03-30,00040,9,기타질환,DIG8980,"Lymphedema, upper extremity"
+BR38109,2016-03-05,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR25565,2020-07-06,00040,9,기타질환,DIG8312,Special screening examination for cardiovascular disorders
+BR41507,2019-11-14,00040,9,기타질환,DIG9506,Dyslipidemia
+BR86086,2021-03-07,00040,9,기타질환,DIG9506,Dyslipidemia
+BR38109,2016-08-20,00040,9,기타질환,DIG6028,Routine Gynecologic Examination
+BR83070,2022-11-01,00040,9,기타질환,DIG4140,Menopause
+BR27669,2013-07-18,00040,9,기타질환,DIG4140,Menopause
+BR61061,2016-07-11,00040,9,기타질환,DIG5393,Adjustment disorders
+BR43542,2015-01-04,00040,9,기타질환,DIG5658,"Essential Hypertension, Unspecified"
+BR53100,2013-12-10,00040,9,기타질환,DIG4140,Menopause
+BR84756,2017-03-26,00040,9,기타질환,DIG4140,Menopause
+BR41507,2012-12-22,00040,9,기타질환,DIG8913,Thyroid(cystic) nodule NOS
+BR49231,2017-04-17,00040,9,기타질환,DIG4924,"Myofascial pain syndrome, shoulder region"
+BR57914,2019-11-25,00040,9,기타질환,DIG4924,"Myofascial pain syndrome, shoulder region"
+BR60145,2014-01-21,00040,9,기타질환,DIG3911,Cervicitis
+BR10501,2014-09-03,00040,9,기타질환,DIG1545,LFT Abnormality
+BR52177,2015-04-28,00040,9,기타질환,DIG1545,LFT Abnormality
+BR18521,2013-07-27,00040,9,기타질환,DIG3911,Cervicitis
+BR21221,2018-11-12,00040,9,기타질환,DIG3702,Shoulder Impingement Syndrome
+BR79885,2015-11-21,00040,9,기타질환,DIG2235,Pelvic Mass
+BR25382,2012-08-23,00040,9,기타질환,DIG7739,Drug eruption
+BR21737,2013-12-08,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR27105,2014-07-10,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR67334,2018-12-26,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR54868,2019-11-24,00040,9,기타질환,DIG7616,Vaginal Bleeding
+BR53100,2012-08-09,00040,9,기타질환,DIG7036,Type 2 DM
+BR53100,2016-02-08,00040,9,기타질환,DIG5186,Type 2 DM
+BR60505,2014-09-27,00040,9,기타질환,DIG6733,Dry eye syndrome
+BR43542,2017-08-08,00040,9,기타질환,DIG6733,Dry eye syndrome
+BR18521,2019-05-03,00040,9,기타질환,DIG5158,Paratubal cyst
+BR41540,2022-02-05,00040,9,기타질환,DIG1385,"Chronic periodontitis, unspecified"
+BR43137,2020-12-28,00040,9,기타질환,DIG6064,"Colorectal Polyp, other"
+BR84756,2017-10-04,00040,9,기타질환,DIG1650,"Hypothyroidism, unspecified"
+BR86086,2019-06-01,00040,9,기타질환,DIG8667,Reflux oesophagitis
+BR64934,2021-10-31,00040,9,기타질환,DIG9251,Follow-up examination after surgery for malignant neoplasm
+BR60122,2020-05-17,00040,9,기타질환,DIG6935,Gastro-oesophageal reflux disease without oesophagitis
+BR25565,2020-11-06,00040,9,기타질환,DIG6935,Gastro-oesophageal reflux disease without oesophagitis
+BR13866,2016-03-22,00040,9,기타질환,DIG8667,Reflux oesophagitis
+BR53100,2014-06-01,00040,9,기타질환,DIG9438,Dizziness
+BR12041,2018-11-26,00040,9,기타질환,DIG4308,Adenomyosis Of Uterus
+BR62319,2017-06-09,00040,9,기타질환,DIG4108,Rehabilitation NOS
+BR43137,2019-11-22,00040,9,기타질환,DIG4308,Adenomyosis Of Uterus
+BR38710,2019-10-31,00040,9,기타질환,DIG8265,"Hyperlipidaemia, unspecified"
+BR84756,2020-07-10,00040,9,기타질환,DIG8265,"Hyperlipidaemia, unspecified"
+BR67334,2017-08-18,00040,9,기타질환,DIG3967,Neutropenic fever
+BR44149,2020-09-11,00040,9,기타질환,DIG5264,Solitary pulmonary nodule
+BR86535,2019-07-24,00040,9,기타질환,DIG5186,Type 2 DM
+BR83566,2016-09-15,00040,9,기타질환,DIG6500,Herpes Zoster
+BR83070,2020-06-01,00040,9,기타질환,DIG2069,Drug-induced polyneuropathy
+BR46305,2019-07-03,00040,9,기타질환,DIG6935,Gastro-oesophageal reflux disease without oesophagitis
+BR86535,2019-03-12,00040,9,기타질환,DIG6733,Dry eye syndrome
+BR49864,2020-10-20,00040,9,기타질환,DIG6655,Abnormal findings on diagnostic imaging of liver and biliary tract
+BR16171,2016-07-02,00040,9,기타질환,DIG7811,Special screening examination for neoplasm of intestinal tract
+BR37252,2015-01-22,00040,9,기타질환,DIG4308,Adenomyosis Of Uterus
+BR86086,2019-01-24,00040,9,기타질환,DIG4873,Cough
+BR53100,2013-04-28,00040,9,기타질환,DIG9795,"Acute pharyngitis, unspecified"
+BR53100,2013-11-14,00040,9,기타질환,DIG9072,"Essential Hypertension, benign"
+BR53100,2014-03-01,00040,9,기타질환,DIG4741,Constipation
+BR53100,2014-05-24,00040,9,기타질환,DIG1954,Hypercholesterolemia
+BR53100,2016-12-28,00040,9,기타질환,DIG1555,"Abdominal Pain, unspecified"
+BR53100,2018-08-25,00040,9,기타질환,DIG7937,"Type 2 diabetes mellitus, with unspecified complications"
+BR53100,2020-03-15,00040,9,기타질환,DIG3494,Special examination for DM
+BR86086,2011-08-25,00040,9,기타질환,DIG1954,Hypercholesterolemia
+BR86086,2018-03-17,00040,9,기타질환,DIG8259,Painless Thyroiditis
+BR86086,2019-08-02,00040,9,기타질환,DIG3502,"Laryngitis, NOS"
+BR86086,2019-12-28,00040,9,기타질환,DIG4745,"Acute upper respiratory infection, unspecified"
+BR86086,2020-09-14,00040,9,기타질환,DIG6145,Dermatitis
+BR83070,2018-10-28,00040,9,기타질환,DIG7395,Throat Pain
+BR83070,2018-11-07,00040,9,기타질환,DIG6850,Chemotherapy-induced Cardiomyopathy
+BR83070,2018-12-01,00040,9,기타질환,DIG5210,Contact Granuloma
+BR83070,2019-11-08,00040,9,기타질환,DIG6054,Acute pyelonephritis
+BR83070,2020-04-29,00040,9,기타질환,DIG5593,"Persons encountering health services for counselling, unspecified"
+BR83070,2022-01-12,00040,9,기타질환,DIG6290,Irritable bowel syndrome with mixed bowel habits [IBS-M]
+BR83070,2022-05-15,00040,9,기타질환,DIG5645,Graves’ disease
+BR46305,2019-07-26,00040,9,기타질환,DIG3022,HPV infection
+BR46305,2019-07-27,00040,9,기타질환,DIG3412,"Cervical intraepithelial neoplasia [CIN], grade Ⅱ"
+BR46305,2019-08-20,00040,9,기타질환,DIG7387,Nonorganic insomnia
+BR46305,2019-12-02,00040,9,기타질환,DIG3472,"Neoplasm, metastatic"
+BR46305,2020-06-26,00040,9,기타질환,DIG3412,"Cervical intraepithelial neoplasia [CIN], grade Ⅱ"
+BR46305,2020-07-03,00040,9,기타질환,DIG9785,"Disruption of operation wound, NEC"
+BR43137,2018-05-31,00040,9,기타질환,DIG5186,Type 2 DM
+BR38710,2019-04-30,00040,9,기타질환,DIG5186,Type 2 DM
+BR41507,2022-07-17,00040,9,기타질환,DIG5186,Type 2 DM
+BR10501,2012-10-19,00040,9,기타질환,DIG6500,Herpes Zoster
+BR41591,2019-01-09,00040,9,기타질환,DIG6935,Gastro-oesophageal reflux disease without oesophagitis
+BR18462,2018-04-27,00040,9,기타질환,DIG9670,Nonulcer Dyspepsia
+BR25565,2019-04-19,00040,9,기타질환,DIG5158,Paratubal cyst
+BR98207,2016-12-22,00040,9,기타질환,DIG5392,Bowel Habit Change
+BR13866,2015-01-15,00040,9,기타질환,DIG5392,Bowel Habit Change
+BR63834,2019-12-22,00040,9,기타질환,DIG8265,"Hyperlipidaemia, unspecified"
+BR86086,2011-08-22,00040,9,기타질환,DIG9438,Dizziness
+BR37209,2020-05-21,00040,9,기타질환,DIG4308,Adenomyosis Of Uterus
+BR41507,2011-01-03,00040,9,기타질환,DIG2924,Dyshidrosis [pompholyx]
+BR41507,2012-11-12,00040,9,기타질환,DIG5552,Cellulitis of foot NOS
+BR41507,2012-12-24,00040,9,기타질환,DIG4883,Urinary tract infection
+BR41507,2013-01-27,00040,9,기타질환,DIG9675,Cervical Sprain
+BR41507,2013-05-02,00040,9,기타질환,DIG6379,Calcific tendinitis shoulder region
+BR41507,2014-11-07,00040,9,기타질환,DIG3022,HPV infection
+BR41507,2015-01-26,00040,9,기타질환,DIG4085,Erosive gastritis
+BR41507,2015-04-26,00040,9,기타질환,DIG9388,Frozen shoulder
+BR41507,2017-01-14,00040,9,기타질환,DIG4993,"Bronchitis, NOS"
+BR41507,2017-01-22,00040,9,기타질환,DIG7106,Contact with and exposure to tuberculosis
+BR41507,2017-02-01,00040,9,기타질환,DIG4883,Urinary tract infection
+BR41507,2017-07-12,00040,9,기타질환,DIG9901,Special screening examination for other viral diseases
+BR41507,2019-01-13,00040,9,기타질환,DIG9859,Single Episode Major Depressive Disorder
+BR41507,2019-08-22,00040,9,기타질환,DIG9791,Fracture of crown of tooth without pulpal involvement
+BR41507,2020-12-14,00040,9,기타질환,DIG9530,"Type 2 diabetes mellitus, without complications"
+BR41507,2021-03-14,00040,9,기타질환,DIG4828,Acute gastritis
+BR41507,2022-04-29,00040,9,기타질환,DIG1556,DM
+BR43542,2014-05-06,00040,9,기타질환,DIG7340,Subconjunctival haemorrhage
+BR43542,2015-02-02,00040,9,기타질환,DIG7692,Intercostal Neuralgia
+BR43542,2015-05-28,00040,9,기타질환,DIG7395,Throat Pain
+BR43542,2017-01-16,00040,9,기타질환,DIG1725,"Chronic gingivitis, unspecified"
+BR43542,2018-07-17,00040,9,기타질환,DIG6198,"GB Stone, With obstruction"
+BR43542,2022-04-30,00040,9,기타질환,DIG7213,Pleural Disease
+BR43542,2022-05-30,00040,9,기타질환,DIG5382,"Steroid-induced DM, without complications"
+BR25565,2017-04-25,00040,9,기타질환,DIG1998,Palpitations
+BR25565,2017-05-19,00040,9,기타질환,DIG5361,Chalazion
+BR25565,2017-08-04,00040,9,기타질환,DIG8407,Hyperthyroidism NOS
+BR25565,2017-09-22,00040,9,기타질환,DIG6469,"Polyp of colon, unspecified"
+BR25565,2019-02-24,00040,9,기타질환,DIG8096,Abnormal findings on diagnostic imaging of other parts of digestive tract
+BR25565,2020-04-07,00040,9,기타질환,DIG6224,Acute cystitis
+BR66099,2018-11-09,00040,9,기타질환,DIG6191,"Localized swelling, mass and lump, lower limb"
+BR66099,2018-11-26,00040,9,기타질환,DIG2243,Ganglion of joint or tendon (sheath) ankle and foot
+BR66099,2021-03-29,00040,9,기타질환,DIG5265,Mediastinal mass
+BR41540,2019-06-03,00040,9,기타질환,DIG5264,Solitary pulmonary nodule
+BR74521,2017-05-18,00040,9,기타질환,DIG2128,Headache
+BR51150,2011-11-28,00040,9,기타질환,DIG9922,Genetic counselling
+BR41507,2022-09-29,00040,9,기타질환,DIG6935,Gastro-oesophageal reflux disease without oesophagitis
+BR16171,2017-07-11,00040,9,기타질환,DIG6064,"Colorectal Polyp, other"
+BR16171,2021-09-12,00040,9,기타질환,DIG5841,Polyp of colon
+BR18521,2010-07-19,00040,9,기타질환,DIG9960,Chronic Hepatitis B
+BR18521,2010-07-20,00040,9,기타질환,DIG4714,"Gynecological examination (general, routine)"
+BR18521,2014-01-18,00040,9,기타질환,DIG2693,Chronic(viral) hepatitis B
+BR18521,2016-02-05,00040,9,기타질환,DIG3793,Chronic viral hepatitis B without delta- agent
+BR18521,2019-04-23,00040,9,기타질환,DIG7193,Observation for suspected malignant neoplasm
+BR18521,2021-01-07,00040,9,기타질환,DIG3671,"Chronic viral hepatitis B without delta-agent, other and unspecified phase"
+BR21221,2018-03-23,00040,9,기타질환,DIG8611,Hashimoto's thyroiditis
+BR21221,2018-11-16,00040,9,기타질환,DIG8317,Need for immunization against influenza
+BR21221,2018-12-20,00040,9,기타질환,DIG5209,Need for immunization NOS
+BR21221,2021-12-21,00040,9,기타질환,DIG7880,TFT Abnormality
+BR21221,2022-10-24,00040,9,기타질환,DIG7990,Other retinal disorders in diseases classified elsewhere
+BR51639,2019-01-23,00040,9,기타질환,DIG7293,Pathologic Fracture pelvic region and thigh
+BR42234,2015-06-23,00040,9,기타질환,DIG9921,Keloid
+BR42234,2015-08-03,00040,9,기타질환,DIG3668,Epidermal cyst
+BR42234,2015-11-17,00040,9,기타질환,DIG1090,Burning Tongue
+BR42234,2016-01-23,00040,9,기타질환,DIG5757,Hypertrophic scar
+BR43137,2021-03-12,00040,9,기타질환,DIG6039,Nonalcoholic fatty liver disease(NAFLD)
+BR43137,2021-11-24,00040,9,기타질환,DIG3494,Special examination for DM
+BR43137,2022-11-18,00040,9,기타질환,DIG7046,Other and unspecified ovarian cysts
+BR49254,2015-10-17,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR86535,2018-11-13,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR98207,2017-01-10,00040,9,기타질환,DIG5440,Other and unspecified constipation
+BR98207,2017-06-03,00040,9,기타질환,DIG5126,Memory Disorder
+BR98207,2019-10-31,00040,9,기타질환,DIG6986,Cervical spondylosis without myelopathy or radiculopathy cervical region
+BR21682,2010-09-20,00040,9,기타질환,DIG7632,Adrenal Gland Disease
+BR21682,2011-03-17,00040,9,기타질환,DIG8889,"Temporomandibular joint disorders, unspecified"
+BR21682,2021-03-07,00040,9,기타질환,DIG3671,"Chronic viral hepatitis B without delta-agent, other and unspecified phase"
+BR64748,2015-05-12,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR54868,2015-01-06,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR51639,2014-11-17,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR80076,2015-05-25,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR30370,2016-10-26,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR51639,2019-08-28,00040,9,기타질환,DIG1774,Enterocolitis due to Clostridium difficile
+BR51639,2019-09-08,00040,9,기타질환,DIG6552,Empyema (chest) (lung) (pleura)
+BR51639,2020-05-21,00040,9,기타질환,DIG4508,"Chronic respiratory failure, type uspecified"
+BR62319,2017-09-16,00040,9,기타질환,DIG3591,Radiation pneumonitis
+BR62319,2017-11-28,00040,9,기타질환,DIG6243,Mastitis
+BR62319,2018-01-15,00040,9,기타질환,DIG4628,"Cervical intraepithelial neoplasia [CIN], grade Ⅰ"
+BR62319,2019-07-18,00040,9,기타질환,DIG7076,Hematochezia
+BR41540,2019-12-13,00040,9,기타질환,DIG6087,Persons encountering health services for admission for prophylactic organ removal
+BR41540,2020-06-24,00040,9,기타질환,DIG3447,Other disorders of pituitary gland
+BR41540,2020-09-06,00040,9,기타질환,DIG8147,Prurigo NOS
+BR41540,2021-04-12,00040,9,기타질환,DIG7387,Nonorganic insomnia
+BR84756,2017-03-08,00040,9,기타질환,DIG4796,Hand Eczema
+BR84756,2017-07-15,00040,9,기타질환,DIG5549,Lentigo
+BR84756,2017-09-17,00040,9,기타질환,DIG7395,Throat Pain
+BR84756,2020-06-30,00040,9,기타질환,DIG6453,Angina NOS
+BR61061,2016-11-02,00040,9,기타질환,DIG6224,Acute cystitis
+BR61061,2018-09-05,00040,9,기타질환,DIG3581,Overactive bladder
+BR61061,2019-08-20,00040,9,기타질환,DIG4663,Ventricular Premature Contraction
+BR46305,2019-09-12,00040,9,기타질환,DIG9490,Nontoxic single thyroid nodule
+BR83070,2018-11-18,00040,9,기타질환,DIG6935,Gastro-oesophageal reflux disease without oesophagitis
+BR48510,2018-03-07,00040,9,기타질환,DIG6500,Herpes Zoster
+BR51639,2018-12-24,00040,9,기타질환,DIG5392,Bowel Habit Change
+BR51639,2020-06-18,00040,9,기타질환,DIG6500,Herpes Zoster
+BR41507,2021-07-27,00040,9,기타질환,DIG6500,Herpes Zoster
+BR49231,2018-01-09,00040,9,기타질환,DIG5392,Bowel Habit Change
+BR27105,2013-07-13,00040,9,기타질환,DIG8859,Retained dental root
+BR27105,2013-08-11,00040,9,기타질환,DIG6689,Paranoid schizophrenia
+BR27105,2017-05-10,00040,9,기타질환,DIG7006,"Pneumonia, unspecified"
+BR27105,2017-06-03,00040,9,기타질환,DIG4853,Paralytic lagophthalmos
+BR27105,2017-07-16,00040,9,기타질환,DIG3737,Dysphagia
+BR10501,2012-01-24,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR84328,2015-11-20,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR55034,2019-04-07,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR83070,2018-03-06,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR55208,2013-11-08,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR44149,2011-10-03,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR25565,2019-04-10,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR42234,2015-05-04,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR53059,2018-07-09,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR48591,2020-02-04,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR25565,2016-10-07,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR37252,2014-08-17,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR26202,2018-03-09,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR43137,2018-02-13,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR38710,2014-02-14,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR27105,2013-06-08,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR49528,2013-12-22,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR22916,2014-10-27,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR97597,2013-05-24,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR64314,2015-05-04,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR21737,2011-01-25,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR57839,2016-03-15,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR74454,2012-02-26,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR67334,2017-04-13,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR86086,2017-12-21,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR84756,2016-11-18,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR57914,2019-03-14,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR60122,2014-01-16,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR96883,2019-01-20,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR53059,2018-07-05,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR25382,2011-10-18,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR95762,2011-12-09,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR38228,2011-04-04,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR44149,2011-10-16,00040,9,기타질환,DIG2576,Tinnitus
+BR44149,2012-02-15,00040,9,기타질환,DIG7991,Other syncope and collapse
+BR44149,2012-02-11,00040,9,기타질환,DIG7991,Other syncope and collapse
+BR44149,2012-03-02,00040,9,기타질환,DIG1954,Hypercholesterolemia
+BR44149,2020-02-20,00040,9,기타질환,DIG2801,osteopenia other
+BR49864,2019-09-28,00040,9,기타질환,DIG5622,GB Polyp
+BR49864,2020-03-30,00040,9,기타질환,DIG4659,Atrophic Vaginitis
+BR49864,2021-03-22,00040,9,기타질환,DIG9362,Unspecified macular degeneration
+BR49615,2019-12-05,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR92763,2016-09-18,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR66099,2018-01-15,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR41591,2017-07-19,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR13569,2018-06-17,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR16171,2014-10-27,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR64934,2016-12-31,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR99824,2015-02-06,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR49231,2016-12-25,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR40647,2017-08-03,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR52032,2014-10-08,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR83716,2015-09-20,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR38109,2016-02-25,00040,1,유방암(C50),DIG7459,"Malignant neoplasm of breast unspecified, left"
+BR41540,2015-06-27,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR64934,2022-06-09,00040,1,유방암(C50),DIG4402,"Malignant neoplasm of breast unspecified, right"
+BR76655,2012-09-13,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR12346,2019-10-16,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR18462,2019-05-01,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR14846,2013-10-21,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR16276,2012-10-29,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR53100,2012-04-26,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR67187,2014-07-27,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR44149,2018-01-01,00040,9,기타질환,DIG6180,Myoma Uteri
+BR53059,2022-01-03,00040,9,기타질환,DIG6180,Myoma Uteri
+BR21737,2012-02-07,00040,9,기타질환,DIG6180,Myoma Uteri
+BR27669,2011-04-18,00040,1,유방암(C50),DIG8659,"Invasive Breast Cancer, left"
+BR49864,2018-07-23,00040,1,유방암(C50),DIG5227,"Invasive Breast Cancer, right"
+BR61221,2013-08-08,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR74521,2011-12-05,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR41507,2018-10-15,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR37209,2019-04-29,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR28031,2013-10-28,00040,9,기타질환,DIG6180,Myoma Uteri
+BR51150,2012-09-03,00040,9,기타질환,DIG6180,Myoma Uteri
+BR38694,2014-11-10,00040,1,유방암(C50),DIG5227,"Invasive Breast Cancer, right"
+BR74390,2019-08-28,00040,1,유방암(C50),DIG5227,"Invasive Breast Cancer, right"
+BR52177,2011-03-05,00040,1,유방암(C50),DIG5227,"Invasive Breast Cancer, right"
+BR27105,2013-06-14,00040,8,기타암,DIG4211,Bone Metastasis
+BR27105,2017-02-09,00040,8,기타암,DIG4211,Bone Metastasis
+BR27105,2021-01-11,00040,8,기타암,DIG5376,Bone Metastasis
+BR83566,2016-07-01,00040,8,기타암,DIG4211,Bone Metastasis
+BR51150,2011-03-05,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR43137,2018-10-08,00040,9,기타질환,DIG6180,Myoma Uteri
+BR61221,2014-08-22,00040,9,기타질환,DIG6180,Myoma Uteri
+BR41507,2021-03-08,00040,9,기타질환,DIG6180,Myoma Uteri
+BR84756,2020-03-23,00040,9,기타질환,DIG6180,Myoma Uteri
+BR41507,2018-12-15,00040,1,유방암(C50),DIG8659,"Invasive Breast Cancer, left"
+BR64934,2019-06-07,00040,2,상피내암(D05),DIG7310,"Intraductal carcinoma in situ of breast, left"
+BR48591,2019-12-14,00040,2,상피내암(D05),DIG7310,"Intraductal carcinoma in situ of breast, left"
+BR51639,2018-12-30,00040,8,기타암,DIG4211,Bone Metastasis
+BR51639,2021-01-04,00040,8,기타암,DIG5376,Bone Metastasis
+BR61221,2013-08-02,00040,8,기타암,DIG4211,Bone Metastasis
+BR21682,2011-01-16,00040,1,유방암(C50),DIG5474,"Breast Cancer, unspecified side"
+BR49231,2016-12-26,00040,2,상피내암(D05),DIG6674,"Carcinoma in situ of breast, unspecified, right"
+BR49231,2017-01-17,00040,9,기타질환,DIG9610,"Leiomyoma, uteri"
+BR81127,2010-03-07,00040,1,유방암(C50),DIG3768,Invasive Breast Cancer
+BR54137,2011-06-26,00040,2,상피내암(D05),DIG7310,"Intraductal carcinoma in situ, Left"
+BR65546,2012-09-15,00040,1,유방암(C50),DIG8333,"Malignant neoplasm of upper-outer quadrant of breast, right"
+BR92406,2011-01-20,00040,1,유방암(C50),DIG2760,"Invasive Breast Cancer, unspecified side"
+BR51639,2017-11-19,00040,1,유방암(C50),DIG5474,"Breast Cancer, unspecified side"
+BR41507,2014-12-12,00040,9,기타질환,DIG6154,Colorectal Adenomatous Polyp
+BR28031,2012-08-12,00040,1,유방암(C50),DIG8006,"Malignant neoplasm of upper-outer quadrant of breast, left"
+BR41507,2016-01-02,00040,9,기타질환,DIG5944,"Benign neoplasm of breast, unspecified, unspecified side"
+BR98207,2016-12-15,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR77153,2011-02-21,00040,1,유방암(C50),DIG3294,"Breast Cancer, left"
+BR46305,2018-11-06,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR36169,2015-08-06,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR95762,2012-01-02,00040,1,유방암(C50),DIG5227,"Invasive Breast Cancer, right"
+BR18521,2019-03-17,00040,2,상피내암(D05),DIG3139,"Intraductal carcinoma in situ of breast, right"
+BR21221,2017-12-06,00040,2,상피내암(D05),DIG7310,"Intraductal carcinoma in situ of breast, left"
+BR59408,2013-10-19,00040,1,유방암(C50),DIG2760,"Invasive Breast Cancer, unspecified side"
+BR27669,2011-01-16,00040,1,유방암(C50),DIG2760,"Invasive Breast Cancer, unspecified side"
+BR18521,2011-01-15,00040,1,유방암(C50),DIG5474,"Breast Cancer, unspecified side"
+BR21221,2017-11-27,00040,9,기타질환,DIG5214,"Benign neoplasm of breast, unspecified, left"
+BR81127,2011-01-20,00040,1,유방암(C50),DIG2760,"Invasive Breast Cancer, unspecified side"
+BR18462,2019-07-09,00040,8,기타암,DIG2783,Papillary Thyroid Carcinoma
+BR18462,2019-10-15,00040,8,기타암,DIG2783,Papillary Thyroid Carcinoma
+BR12041,2018-11-29,00040,9,기타질환,DIG9610,"Leiomyoma, uteri"
+BR53593,2013-05-05,00040,2,상피내암(D05),DIG6674,"Carcinoma in situ of breast, unspecified, Right"
+BR90502,2012-10-22,00040,2,상피내암(D05),DIG6674,"Carcinoma in situ of breast, unspecified, Right"
+BR43542,2013-06-17,00040,1,유방암(C50),DIG8006,"Malignant neoplasm of upper-outer quadrant of breast, left"
+BR43542,2015-03-10,00040,2,상피내암(D05),DIG6674,"Carcinoma in situ of breast, unspecified, Right"
+BR61061,2016-04-17,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR66049,2017-07-27,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR33954,2014-01-11,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR48510,2014-06-11,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR63834,2019-11-20,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR37252,2015-01-30,00040,9,기타질환,DIG6180,Myoma Uteri
+BR12041,2017-05-28,00040,1,유방암(C50),DIG5784,"Breast Cancer, right"
+BR62319,2017-02-16,00040,1,유방암(C50),DIG5227,"Invasive Breast Cancer, right"
+BR41507,2018-12-16,00040,2,상피내암(D05),DIG3139,"Intraductal carcinoma in situ of breast, right"
+BR25565,2019-04-27,00040,8,기타암,DIG4211,Bone Metastasis
+BR16171,2016-07-14,00040,9,기타질환,DIG6154,Colorectal Adenomatous Polyp
+BR18521,2019-03-04,00040,9,기타질환,DIG7821,"Benign neoplasm of breast, unspecified, right"
+BR96883,2023-02-11,00040,9,기타질환,DIG6154,Colorectal Adenomatous Polyp
+BR60145,2012-06-24,00040,2,상피내암(D05),DIG3139,"Intraductal carcinoma in situ, Right"
+BR60122,2014-02-15,00040,9,기타질환,DIG2219,"Benign female breast neoplasm, Right"
+BR60122,2016-01-07,00040,9,기타질환,DIG7821,"Benign neoplasm of breast, unspecifiedt, right"
+BR21682,2010-09-01,00040,1,유방암(C50),DIG7581,Infiltrating Ductal Carcinoma Of Breast
+BR51639,2020-04-28,00040,8,기타암,DIG7890,Leptomeningeal carcinomatosis
+BR51639,2020-05-17,00040,8,기타암,DIG8222,"Lung Metastasis, Unspecified side"
+BR43137,2021-01-23,00040,9,기타질환,DIG3364,"Adenomatous polyp, colon"
+BR86535,2019-11-14,00040,8,기타암,DIG5684,Axillary lymph node metastasis
+BR16171,2014-10-22,00040,9,기타질환,DIG5550,"Benign Ovarian Neoplasm, unspecified side"
+BR43542,2013-07-16,00040,1,유방암(C50),DIG9694,"Malignant neoplasm of upper-inner quadrant of breast, left"
+BR54137,2011-07-24,00040,9,기타질환,DIG3742,"Neoplasm of uncertain or unknown behavior of breast, unspecified side"
+BR28031,2012-08-08,00040,8,기타암,DIG4321,Malignant neoplasm of thyroid gland
+BR51150,2017-09-20,00040,8,기타암,DIG8222,"Lung Metastasis, Unspecified side"
+BR51639,2019-01-02,00040,8,기타암,DIG2369,Metastatic Bone Tumor Of Thoracic Spine
+BR51639,2021-01-19,00040,8,기타암,DIG9097,Secondary malignant neoplasm of bone and bone marrow
+BR25565,2018-04-09,00040,9,기타질환,DIG4999,Benign Neoplasm Of Neck
+BR83929,2012-11-19,00040,1,유방암(C50),DIG9887,"Malignant neoplasm of overlapping lesion of breast, left"
+BR53593,2013-05-18,00040,1,유방암(C50),DIG9218,"Malignant neoplasm of overlapping lesion of breast, right"
+BR37252,2015-02-18,00040,9,기타질환,DIG1259,Intramural leiomyoma of uterus
+BR79885,2012-09-07,00040,1,유방암(C50),DIG8081,"Phyllodes tumor Of Breast(Malignant), right"
+BR79885,2012-09-02,00040,8,기타암,DIG2922,"Adenocarcinoma Of Lung, left"
+BR60505,2014-06-21,00040,9,기타질환,DIG3860,"Serous Cystadenoma Of Ovary, Left"
+BR41507,2015-04-13,00040,9,기타질환,DIG3869,"Benign female breast neoplasm, unspecified side"
+BR30555,2010-06-25,00040,8,기타암,DIG9807,Osteosarcoma
+BR44149,2021-03-07,00040,9,기타질환,DIG6065,"Benign lipomatous neoplasm, unspecified"
+BR18462,2019-10-06,00040,8,기타암,DIG7244,"LN, Head and Neck metastasis"
+BR43542,2014-12-23,00040,8,기타암,DIG2922,"Adenocarcinoma Of Lung, left"
+BR43542,2020-05-09,00040,8,기타암,DIG2424,"Lung Metastasis, right"
+BR79885,2015-11-30,00040,8,기타암,DIG4660,"Krukenberg Tumor of ovary, unspecified side"
+BR10501,2019-02-21,00040,8,기타암,DIG9823,"Nonsmall Cell Lung Cancer, left"
+BR18462,2019-09-02,00040,9,기타질환,DIG5958,Benign neoplasm of pancreas
+BR65546,2012-09-30,00040,9,기타질환,DIG3795,Schwannoma Of Neck
+BR60122,2014-02-10,00040,9,기타질환,DIG7236,"Teratoma II,ovary, Right"
+BR13866,2013-02-27,00040,1,유방암(C50),DIG1507,"Malignant neoplasm of lower-outer quadrant of breast, right"
+BR51150,2017-08-20,00040,9,기타질환,DIG1466,"Brain Neoplasm, uncertain behaviour"
+BR51150,2013-05-19,00040,8,기타암,DIG8502,Cervical Cancer
+BR49528,2014-01-27,00040,8,기타암,DIG2783,Papillary Thyroid Carcinoma
+BR27105,2013-06-14,00040,8,기타암,DIG8222,"Lung Metastasis, Unspecified side"
+BR36169,2015-08-16,00040,8,기타암,DIG8543,Liver Metastasis
+BR36169,2018-01-10,00040,8,기타암,DIG4932,Brain Metastasis
+BR49528,2014-08-15,00040,8,기타암,DIG9741,Papillary ca of thyroid
+BR61221,2013-08-14,00040,8,기타암,DIG2008,"Lymph Node Metastasis, unspecified"
+BR61221,2013-08-04,00040,8,기타암,DIG8222,"Lung Metastasis, Unspecified side"
+BR41507,2022-10-10,00040,9,기타질환,DIG3364,"Adenomatous polyp, colon"
+BR46305,2019-08-25,00040,9,기타질환,DIG4398,Cervical Carcinoma In Situ
+BR25382,2013-08-03,00040,9,기타질환,DIG7800,Meningioma NOS
+BR83566,2012-05-23,00040,1,유방암(C50),DIG2691,"Malignant neoplasm of upper-inner quadrant of breast, right"
+BR59310,2010-02-22,00040,2,상피내암(D05),DIG6718,Ductal Carcinoma In Situ Of Breast
+BR60505,2013-07-04,00040,1,유방암(C50),DIG8809,"Malignant neoplasm of central portion of breast, left"
+BR60505,2013-08-26,00040,1,유방암(C50),DIG8809,"Malignant neoplasm of central portion of breast, left"
